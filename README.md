@@ -3,7 +3,7 @@ Scripts to support troubleshooting AU application issues. Includes log parsers, 
 
 # AuServiceHealthCheck.sh
 
-#GenerateUserCredentials.sh
+# GenerateUserCredentials.sh
 Made this quick script to create X amount of random usernames and passwords which are outputted to a text file. This was created to address a specific recurring request for a job to create trial accounts.
 
 Dependencies
